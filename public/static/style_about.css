@@ -1,0 +1,12 @@
+#FireBrick {
+    color: FireBrick;
+}
+
+.black {
+    color: black;
+}
+
+.image {
+  border: 1px black solid;
+  padding: 33px;
+}
